@@ -1,0 +1,41 @@
+body{
+    width: 95%;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.5;
+    color: white;
+    padding: 1%;
+    background: url(wallpaperflare.com_wallpaper.jpg)center;
+    background-color: rgb(120, 204, 204);
+}
+
+div{
+    width: 600px;
+    height: 400px;
+    border-radius:  2px 3px 10px #899;
+    padding: 10%;
+    margin: 1%;
+    box-shadow: 2px 3px 6px 3px rgb(255, 247, 247);
+    font-size: 150%;
+    text-shadow: 2px 3px 4px  blue;
+    text-align: center;
+}
+h1{
+    box-shadow: 1px 3px 5px 10px rgb(5,151,24);
+    text-shadow: 3px #000 ;
+}
+ h2{
+    box-shadow: 1px 3px 5px 10px rgb(5, 27, 151);
+    text-shadow: 3px rgb(233, 11, 11) ; 
+ }   
+img{
+    padding: 15%;
+    margin: auto;
+
+}
+main{
+    background: 10%;
+    padding: 5px 40px ;
+    margin-top: 20px;
+    border-radius: 10px;
+}
